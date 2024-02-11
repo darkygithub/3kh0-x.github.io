@@ -23,7 +23,7 @@
 > If you have any problems please open an issue, so we can fix it ASAP!
 
 ## Deploy 
-3kh0-Legacy runs on Node.js,
+3kh0-X runs on Node.js,
 
 ## Game Files
 Due to the amount of games, all of the games have been moved to a [new repo](https://gitlab.com/kaioxdev/legacy-assets/).
