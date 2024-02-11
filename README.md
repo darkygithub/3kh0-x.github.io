@@ -30,7 +30,7 @@ Due to the amount of games, all of the games have been moved to a [new repo](htt
 You can add the games here and then edit the games.json
 
 ## Host the CDN
-Thanks to [@Russell2259](https://github.com/Russell2259/) you can host your own 3kh0 CDN, instructions are located [here](https://3kh0.gitbook.io/wiki/create-a-cdn-server-for-3kh0).
+You can self-host custom CDNs by cloning our games repo at GitLab, then creating a raw link.
 
 ## Host the website
 
