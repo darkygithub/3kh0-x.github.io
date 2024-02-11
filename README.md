@@ -5,7 +5,7 @@
 
 </p>
 <h1 align="left">3kh0 X</h1>
-<p align="left">The ultimate unblocked games website.</p>
+<p align="left">The ultimate unblocked games website on the planet.</p>
 
 
 > **If you fork this repo, please give the orginal repo a star! It helps out alot and very few people who fork give me a star.**
