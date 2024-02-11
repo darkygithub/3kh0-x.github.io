@@ -34,7 +34,7 @@ Thanks to [@Russell2259](https://github.com/Russell2259/) you can host your own 
 
 ## Host the website
 
-You can host our website on a cloud hosting solution like Replit or Render here. If you're unsure on what this does, use our own site, or find one someone else is hosting. <br>
+You can host our website on a cloud hosting solution like Vercel. Any other hosting solutions are not officially supported and support will not be provided for <br>
 
 
 [![Deploy with Vercel - Official](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvivanetwork%2Fwebsite-x) 
