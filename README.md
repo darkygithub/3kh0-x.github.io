@@ -24,6 +24,7 @@
 
 ## Deploy 
 3kh0-X runs on Node.js, you can use Vercel or Replit.
+<br>
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvivanetwork%2Fwebsite-x)
 
 
@@ -34,12 +35,6 @@ You can add the games here and then edit the games.json
 ## Host the CDN
 You can self-host custom CDNs by cloning our games repo at GitLab, then creating a raw link.
 
-## Host the website
-
-You can host our website on a cloud hosting solution like Vercel. Any other hosting solutions are not officially supported and support will not be provided for <br>
-
-
-[![Deploy with Vercel - Official](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvivanetwork%2Fwebsite-x) 
 
 ## Contributing
 Contributions are always welcome!
