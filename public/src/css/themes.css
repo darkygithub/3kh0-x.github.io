@@ -1,0 +1,64 @@
+body[theme="default"] {
+  --background: #000000;
+  --theme: #fb00ff;
+  --text: white;
+  --text-secondary: black;
+  --navbar: 70px;
+  --theme-second: #333;
+  --theme-icon: #fff;
+  --theme-icon-secondary: #000;
+  --navheight: 48px;
+  --navitem-height: 20px;
+  --navitem-width: 20px;
+  --shadow: 0 5px 20px #333;
+  transition: 0.9s ease;
+  transition-property: background, transform;
+}
+body[theme="light"] {
+  --background: white;
+  --theme: #fb00ff;
+  --text: black;
+  --text-secondary: black;
+  --navbar: 70px; 
+  --theme-second: #EEE;
+  --theme-icon: #000;
+  --theme-icon-secondary: #fff;
+  --navheight: 48px;
+  --navitem-height: 20px;
+  --navitem-width: 20px;
+  --shadow: 0 5px 20px #333;
+  transition: 0.9s ease;
+  transition-property: background, transform;
+}
+body[theme="V4"] {
+  --background: #1c1c1c;
+  --theme: #4caf50;
+  --text: white;
+  --text-secondary: black;
+  --navbar: 56px;
+  --theme-second: #333;
+  --theme-icon: #fff;
+  --theme-icon-secondary: #000;
+  --navheight: 42px;
+  --navitem-height: 20px;
+  --navitem-width: 20px;
+  --shadow: 0 5px 200px var(--theme);
+  transition: 0.9s ease;
+  transition-property: background, transform;
+}
+body[theme="METAL"] {
+  --background: #171717;
+  --theme: #002931;
+  --text: white;
+  --text-secondary: white;
+  --navbar: 70px;
+  --theme-second: #222;
+  --theme-icon: #fff;
+  --theme-icon-secondary: #ffffff;
+  --navheight: 48px;
+  --navitem-height: 20px;
+  --navitem-width: 20px;
+  --shadow: 0 5px 20px #002931;
+  transition: 0.9s ease;
+  transition-property: background, transform;
+}

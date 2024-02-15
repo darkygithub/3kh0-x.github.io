@@ -1,0 +1,24 @@
+{
+  "name": "3kh0 X",
+  "description": "The ultimate unblocked games website on the planet.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivanetwork/website-x.git"
+  },
+  "author": "kaioxdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivanetwork/website-x/issues"
+  },
+  "homepage": "https://github.com/vivanetwork/website-x#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}

@@ -1,0 +1,24 @@
+.clock-subsystem {
+  position: relative;
+  color: var(--text-secondary);
+  background: var(--theme);
+  width: fit-content;
+  padding: 7px 12px;
+  border-radius: 50px;
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+}
+
+
+<div class="clock-subsystem">
+  <div class="time">
+    <span class="hours"></span>
+    <span class="dots">:</span>
+    <span class="minutes"></span>
+    <span class="period"></span>
+  </div>
+</div>
