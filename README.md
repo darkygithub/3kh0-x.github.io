@@ -1,7 +1,7 @@
 
 <p align="left">
 
-<img style="border-radius:20px" height="150px" src="logo.png">
+<img style="border-radius:20px" height="150px" src="public/src/images/logo2.png">
 
 </p>
 <h1 align="left">3kh0 X</h1>
