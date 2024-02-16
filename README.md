@@ -25,7 +25,7 @@
 ## Deploy 
 3kh0-X runs on Node.js, you can use Vercel or Replit.
 <br>
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvivanetwork%2Fwebsite-x)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F3kh0-x%2F3kh0-x.github.io)
 
 
 ## Game Files
