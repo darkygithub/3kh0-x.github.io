@@ -1,3 +1,4 @@
+app.use(express.static(__dirname + "/public/"));
 import http from "http";
 import express from "express";
 import { fileURLToPath } from "url";
