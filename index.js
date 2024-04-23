@@ -1,3 +1,6 @@
+const app = express();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 app.use(express.static(__dirname + "/public/"));
 import http from "http";
 import express from "express";
@@ -6,11 +9,10 @@ import path, { dirname } from "path";
 import cors from "cors";
 import routes from "./routes/routes.js";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+
 
 const port = 6003;
-const app = express();
+
 
 routes.forEach((route) => {
   const handlers = [
@@ -23,7 +25,6 @@ routes.forEach((route) => {
 });
 
 app.use(express.static(path.join(__dirname, "public", "src")));
-
 const server = http.createServer(app);
 server.listen(port, () => {
   console.log(`3kh0 site running on port ${port}`);
